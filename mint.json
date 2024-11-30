@@ -15,13 +15,13 @@
       "to": "#07C983"
     }
   },
-
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "whitepaper",
+        "whitepaper"
       ]
     }
    ]
+  }
