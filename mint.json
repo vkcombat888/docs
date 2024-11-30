@@ -18,6 +18,7 @@
 
   "navigation": [
     {
+      "group": "Get Started",
       "pages": [
         "introduction",
         "whitepaper",
